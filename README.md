@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FranciscoRVW
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning Ruby on Rails
-- 💞️ I’m looking to collaborate on Rails apps development
+- 👀 I’m interested in backend development with Python
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on Djano apps development
 - 📫 You can reachme at francisco.rv@wizeline.com
 
 <!---
